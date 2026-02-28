@@ -83,7 +83,7 @@ Hook → PCOS Insights → Thyroid Insights → Comparison → Awareness → Hop
 
 ## 🌐 Live Interactive Dashboard
 
-🔗[text](https://public.flourish.studio/story/3309031/)
+🔗[Dashboard](https://public.flourish.studio/story/3309031/)
 
 (The live version contains additional interactive charts beyond the four displayed above.)
 
