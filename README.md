@@ -59,7 +59,7 @@ Hook → PCOS Insights → Thyroid Insights → Comparison → Awareness → Hop
 ![Thyroid Types](images/Charts/DistributionOfThyroidTypes.png)
 
 ### Symptom Comparison
-![Symptoms](images/Charts/Smptoms.png)
+![Symptoms](images/Charts/Symptoms.png)
 
 > Note: Additional interactive visualizations are available in the live dashboard below.
 
