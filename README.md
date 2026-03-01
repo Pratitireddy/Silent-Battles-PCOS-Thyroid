@@ -53,7 +53,7 @@ Hook → PCOS Insights → Thyroid Insights → Comparison → Awareness → Hop
 ![Age Distribution](images/Charts/AgeDistribution.png)
 
 ### Awareness Analysis
-![Awareness](images/Charts/Awarenss.png)
+![Awareness](images/Charts/Awareness.png)
 
 ### Distribution of Thyroid Types
 ![Thyroid Types](images/Charts/DistributionOfThyroidTypes.png)
@@ -122,3 +122,4 @@ If this project helped you learn more about PCOS & Thyroid awareness,
 please ⭐ star this repository and share it to help reach more women.
 
 Together, awareness can save lives and empower women.
+
