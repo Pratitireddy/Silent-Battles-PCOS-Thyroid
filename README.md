@@ -83,7 +83,8 @@ Hook → PCOS Insights → Thyroid Insights → Comparison → Awareness → Hop
 
 ## 🌐 Live Interactive Dashboard
 
-🔗[Dashboard](https://public.flourish.studio/story/3309031/)
+🔗 **View Live Dashboard:**  
+https://public.flourish.studio/story/3309031/
 
 (The live version contains additional interactive charts beyond the four displayed above.)
 
@@ -101,14 +102,23 @@ Hook → PCOS Insights → Thyroid Insights → Comparison → Awareness → Hop
 
 ## 👥 Team Members
 
-- T.Pratiti
-- K.Divya
-- T.Renuka 
-
+- **T. Pratiti** — Data collection, analysis & visualization  
+- **K. Divya** — UI/UX prototyping & storytelling design  
+- **T. Renuka** — Presentation design & documentation
+  
 ---
 
 ## 📌 Impact
 
 By blending data science, storytelling, and design, this project successfully raised awareness about women’s silent health battles and won **1st Prize (₹20,000)** at the Tech Art & Data Storytelling Event.
 
-This project demonstrates how data, when presented meaningfully, can create social awareness and impact.
+This project demonstrates how meaningful data storytelling can drive awareness and inspire early health intervention.
+
+---
+
+## ❤️ Support & Awareness
+
+If this project helped you learn more about PCOS & Thyroid awareness,  
+please ⭐ star this repository and share it to help reach more women.
+
+Together, awareness can save lives and empower women.
